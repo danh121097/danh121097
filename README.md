@@ -9,8 +9,7 @@ I’m a Frontend Engineer with 5+ years of experience building fast, scalable, a
 ## 🛠️ Technologies & Tools
 
 - **Languages**: TypeScript, JavaScript
-- **Frameworks/Libraries**: Vue.js, Nuxt.js, React.js, Next.js, MapboxGL JS
-- **Gamification**: Phaser, PixiJS
+- **Frameworks/Libraries**: Vue.js, Nuxt.js, React.js, Next.js, MapboxGL JS, Phaser, PixiJS
 - **UI Libraries**: Tailwind CSS, Quasar, Vuetify, Mantine, Shadcn UI
 - **Build Tools**: Webpack, Vite
 
