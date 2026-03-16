@@ -1,18 +1,18 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Harry+Nguyen" />
 
-I’m a Frontend Engineer with 5+ years of experience building fast, scalable, and visually polished web applications using Vue.js, Nuxt.js, React.js, Next.js, and TypeScript. I specialize in clean UI/UX implementation, high-performance frontends, and advanced Mapbox visualizations for GPS/analytics systems.
+6+ years crafting gamification platforms, real-time interactive maps &amp; enterprise systems that millions actually enjoy using. from island-wide treasure hunts to award-winning campaigns — i build the kind of web that makes people forget they're using software.
 
 - 🔥 Frontend Engineer at [Sqkii](https://www.sqkii.com/)
-- 🌐 Portfolio: [harrynguyen.vercel.app](https://harrynguyen.vercel.app)
+- 🌐 Portfolio: [harrynguyen.work](https://harrynguyen.work)
 - 💼 LinkedIn: [Harry Nguyen](https://www.linkedin.com/in/danhnguyenn/)
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: TypeScript, JavaScript
-- **Frameworks/Libraries**: Vue.js, Nuxt.js, React.js, Next.js, MapboxGL JS, Phaser, PixiJS
-- **UI Libraries**: Tailwind CSS, Quasar, Vuetify, Mantine, Shadcn UI
-- **Build Tools**: Webpack, Vite, Bun
+- **Languages**: TypeScript · JavaScript
+- **Frameworks/Libraries**: VueJS · NuxtJS · ReactJS · NextJS · PhaserJS · PixiJS · ThreeJS · Rive · GSAP · MapLibre · MapboxGL · Turf.js
+- **UI Libraries**: Tailwind CSS · Shadcn/ui · Vuetify · Quasar · Mantine
+- **Build Tools**: Webpack · Vite · Bun
 
 ## 📫 Get in Touch
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through [Portfolio](https://harrynguyen.vercel.app), [LinkedIn](https://www.linkedin.com/in/danhnguyenn) or [Email](mailto:dev.harrynguyen@gmail.com)
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through [Portfolio](https://harrynguyen.work), [LinkedIn](https://www.linkedin.com/in/danhnguyenn) or [Email](mailto:dev.harrynguyen@gmail.com)
