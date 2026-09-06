@@ -2,7 +2,7 @@
 
 Frontend Engineer / Full-Stack Engineer with 7+ years building high-performance web apps, real-time map experiences, gamification platforms, ERP/CRM dashboards, and campaign systems. I turn complex product ideas into polished, data-connected interfaces and launch-ready workflows, using AI-assisted engineering across implementation, testing, and automation.
 
-- 🔥 Frontend Engineer / Full-Stack  at [FutureTech](https://www.ftech.ltd)
+- 🔥 Frontend Engineer / Full-Stack  at [FutureTech](https://ftech.ltd)
 - 🌐 Portfolio: [harrynguyen.work](https://harrynguyen.work)
 - 💼 LinkedIn: [Harry Nguyen](https://www.linkedin.com/in/danhnguyenn)
 
