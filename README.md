@@ -11,11 +11,9 @@ Frontend Engineer / Full-Stack Engineer with 7+ years building high-performance 
 - **Languages**: TypeScript · JavaScript
 - **Frontend**: VueJS · NuxtJS · ReactJS · NextJS
 - **Backend:** NodeJS · Express · MongoDB · PostgreSQL · Webhooks · API Integrations
-- **Maps & Geospatial**: MapLibre · MapboxGL · Turf.js
-- **Game Development**: PhaserJS · PixiJS
-- **3D & Motion**: ThreeJS · Rive · GSAP
-- **UI Libraries**: Tailwind CSS · Shadcn/ui · Vuetify · Quasar · Mantine
-- **Build & Workflow:** Vite · Webpack · Bun · AI-Assisted Workflows
+- **Maps/Realtime**: MapLibre · MapboxGL · Socket.io · Turf.js
+- **Animation/Game**: GSAP · PhaserJS · PixiJS · Rive · TexturePacker · Tiled
+- **UI/Component**: Tailwind CSS · Shadcn/ui · Vuetify · Quasar · Mantine
 
 ## 📫 Get in Touch
 
